@@ -18,6 +18,7 @@ public class Phone {
     private int number;
     private String description;
     private InfoEntity IE;
+    //Der skal commites
 
     public Phone() {
     }
